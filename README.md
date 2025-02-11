@@ -1,7 +1,5 @@
 # Aether - Machine Learning Education Platform 🚀
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/aetherlearn/deploys)
-
 Aether is a modern, interactive platform designed to help developers master machine learning through hands-on assessments, real-world projects, and a supportive community.
 
 ## 🌟 Features
