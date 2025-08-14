@@ -126,8 +126,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Swayam Mehta - [@swayammehta](https://twitter.com/swayammehta)
 
-Project Link: [https://github.com/yourusername/aether](https://github.com/yourusername/aether)
-
 ---
 
 <p align="center">Made with ❤️ by <a href="https://github.com/Swayyum">Swayam Mehta</a></p>
