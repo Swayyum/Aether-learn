@@ -127,5 +127,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Swayam Mehta - [@swayammehta](https://twitter.com/swayammehta)
 
 ---
-
-<p align="center">Made with ❤️ by <a href="https://github.com/Swayyum">Swayam Mehta</a></p>
